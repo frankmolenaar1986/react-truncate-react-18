@@ -13,7 +13,8 @@ I am not planning to maintain this package actively myself, only as I need to fo
 
 ## Install
 ```
-$ npm install react-truncate
+$ npm i --save-dev frankmolenaar1986/react-truncate-react-18
+$ yarn add frankmolenaar1986/react-truncate-react-18
 ```
 
 ## Usage
