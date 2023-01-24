@@ -1,11 +1,3 @@
-# React-Truncate
-[![NPM version][npm-image]][npm-url]
-[![Downloads][downloads-image]][npm-url]
-[![Build status][travis-image]][travis-url]
-[![Coverage status][coveralls-image]][coveralls-url]
-[![Dependency status][david-dm-image]][david-dm-url]
-[![Dev dependency status][david-dm-dev-image]][david-dm-dev-url]
-
 ## Disclaimer
 This repo is a fork from https://github.com/pablosichert/react-truncate/ which has not been updated in two years. The only fix I've carried out was to remove the dependency on React 16. This works for me, and it can for you too. ;)
 
@@ -13,7 +5,8 @@ I am not planning to maintain this package actively myself, only as I need to fo
 
 ## Install
 ```
-$ npm install react-truncate
+$ npm i --save-dev frankmolenaar1986/react-truncate-react-18
+$ yarn add frankmolenaar1986/react-truncate-react-18
 ```
 
 ## Usage
